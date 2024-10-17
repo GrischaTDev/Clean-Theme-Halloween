@@ -16,7 +16,7 @@
 
 * Changes to the theme file are automatically applied to the Extension Development Host window.
 
-## Adopt your theme to Visual Studio Code
+## Adopt your theme to Visual Studio Codes
 
 * The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
 
