@@ -1,8 +1,9 @@
 {
-  "name": "Theme",
-  "displayName": "Helloween",
-  "description": "Helloween",
+  "name": "halloween-theme",
+  "displayName": "Halloween",
+  "description": "Halloween",
   "version": "0.0.1",
+  "icon": "",
   "publisher": "GrischaTDev",
   "repository": {
     "type": "git",
@@ -15,7 +16,7 @@
   "keywords": [
     "themes",
     "color-theme",
-    "helloween"
+    "halloween"
   ],
   "categories": [
     "Themes"
@@ -23,9 +24,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Helloween",
+        "label": "Halloween",
         "uiTheme": "vs-dark",
-        "path": "./themes/Helloween-color-theme.json"
+        "path": "./themes/Halloween-color-theme.json"
       }
     ]
   }
