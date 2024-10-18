@@ -2,7 +2,7 @@
   "name": "clean-theme-halloween",
   "displayName": "Clean Theme Halloween",
   "description": "Halloween Theme for Visual Studio Code",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "icon": "./img/logo.png",
   "publisher": "GrischaTDev",
   "repository": {
