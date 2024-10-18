@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "Theme" extension will be documented in this file.
+## [0.0.7]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Fix Theme Color
